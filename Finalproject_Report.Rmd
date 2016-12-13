@@ -1,0 +1,22 @@
+---
+title: "Final Project Report"
+author: "Lu Lin"
+date: "December 12, 2016"
+output: pdf_document
+---
+
+## Introduction
+  I am curious about whtat people say about the restaurant in Boston on twitter,so I did data mining about restaurant in Boston on twitter.In this project, I combine mining a social networking service(twitter), mapping and shiny.
+
+## Wordcloud
+  I am interested in the words that people use to decribe the restaurant in Boston,so I use the wordcloud package and tm package in R to make a wordcloud.
+
+
+##  Mapping
+  In this part, I use streamR package and ggmap package to show the geographic location of the tweetS captured.
+
+## shiny
+ In this part, I made a interacitve website to show the wordcloud image and mapping image.
+
+  https://linlu66.shinyapps.io/finalproject/
+
